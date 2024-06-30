@@ -53,5 +53,12 @@ class Program
         Console.WriteLine(frac4.GetFractionString());
         Console.WriteLine(frac4.GetDecimalValue());
 
+
+        // Console.WriteLine("AAA");
+        // Console.ReadLine();
+
+        // Console.Clear();
+
+        // Console.WriteLine("BBB");
     }
 }
