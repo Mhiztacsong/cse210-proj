@@ -14,6 +14,5 @@ class Program
 
         WritingAssignment writingAssignment = new WritingAssignment("Ibinabo MacDede", "African History", "The Causes of the Civil War in Nigeria by Ibinabo MacDede");
         Console.WriteLine(writingAssignment.GetWritingInformation());
-
     }
 }
