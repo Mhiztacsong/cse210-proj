@@ -1,4 +1,4 @@
-// Made sure no random propmts/questions are selected until they have all been used atleast once  in that session
+// Made sure no random propmts/questions are selected until they have all been used at least once  in that session
 
 using System;
 using System.Runtime.InteropServices;

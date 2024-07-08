@@ -59,7 +59,7 @@ public class ReflectingActivity : Activity
 
         while (elapsed < base.GetDuration())
         {
-            string question = _questions[questionIndex % _questions.Count];
+            string question = GetRandomQuestion();
             Console.WriteLine($"> {question}");
             ShowSpinners(10);
             elapsed += 3;
